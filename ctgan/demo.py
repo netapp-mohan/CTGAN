@@ -3,7 +3,7 @@
 import pandas as pd
 
 file_name = '/Users/macharya/Downloads/CTGAN/2000Q1_filtered.csv'
-#file_name = '/Users/macharya/Downloads/CTGAN/new_data_path.csv'
+#file_name = '/Users/macharya/Downloads/CTGAN/sample_processed.csv'
 
 def load_demo():
 
